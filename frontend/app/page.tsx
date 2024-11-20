@@ -13,9 +13,9 @@ export default function HomePage() {
 				<ScrollBanner
 					labels={[
 						"POWERED BY ETHEREUM",
-						"TRUSTLESS PROTOCOL",
 						"IMMUTABLE CONTRACTS",
-						"OPEN SOURCE"
+						"OPEN SOURCE",
+						"PERMISSIONLESS PROTOCOL",
 					]}
 				/>
 			</div>

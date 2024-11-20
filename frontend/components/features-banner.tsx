@@ -17,7 +17,7 @@ export default function FeaturesBanner() {
                         <Share2Icon className="h-full w-full text-cyan-400" />
                     </div>
                     <h3 className="text-xl font-bold">Incentivize Growth</h3>
-                    <p className="text-gray-400">Build unique incentive structures that reward successful referrals</p>
+                    <p className="text-gray-400 max-w-80 mx-auto">Build unique incentive structures that reward successful referrals</p>
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
@@ -29,7 +29,7 @@ export default function FeaturesBanner() {
                         <ShieldIcon className="h-full w-full text-cyan-400" />
                     </div>
                     <h3 className="text-xl font-bold">Secure & Transparent</h3>
-                    <p className="text-gray-400">Deployed on Ethereum with immutable smart contracts and open-source code</p>
+                    <p className="text-gray-400 max-w-80 mx-auto">Deployed on Ethereum with immutable smart contracts and open-source code</p>
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
@@ -41,7 +41,7 @@ export default function FeaturesBanner() {
                         <AtomIcon className="h-full w-full text-cyan-400" />
                     </div>
                     <h3 className="text-xl font-bold">Atomic Hooks</h3>
-                    <p className="text-gray-400">Trigger smart contract functions before and after every referral</p>
+                    <p className="text-gray-400 max-w-80 mx-auto">Trigger smart contract functions before and after every referral</p>
                 </motion.div>
             </div>
         </div>

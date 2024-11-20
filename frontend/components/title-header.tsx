@@ -23,7 +23,7 @@ export default function TitleHeader() {
                         <span className="block text-cyan-400">REFERRAL PROTOCOL</span>
                     </h1>
                     <p className="mx-auto max-w-[600px] text-xl text-gray-400">
-                        The first decentralized referral system built on Ethereum. Earn rewards for growing the network.
+                        Custom referral programs on Ethereum
                     </p>
                 </motion.div>
             </div>
